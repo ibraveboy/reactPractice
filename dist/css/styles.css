@@ -1,0 +1,17 @@
+.app {
+  color: blueviolet;
+}
+.nav {
+  float: left;
+  list-style: none;
+}
+li{
+  cursor: pointer;
+  list-style: none;
+  
+}
+li:hover{
+  color:red;
+  transition:0.5s;
+}
+/*# sourceMappingURL=styles.css.map*/
